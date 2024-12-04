@@ -554,9 +554,9 @@ input{
 }
 
 #arrow-back{
-    position: absolute;
-    top: 16%;
-    right: 19%;
+  position: absolute;
+    top: 18%;
+    right: 19.5%;
 }
 #back-to-categories {
         font-family: 'Playfair';
